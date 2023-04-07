@@ -1,2 +1,3 @@
-# POO
-Repositório para os trabalhos da disciplina Programação Orientada a Objetos, ministrada pelo professor Delano Beder no semestre 2019/2 da Universidade Federal de São Carlos.
+# T2: Classes Abstratas / Polimorfismo Paramétrico
+
+O segundo trabalho consiste na utilização dos conceitos aprendidos em classe até o momento e usar os conceitos de classes abstratas e polimorfismo paramétrico para criar um programa que gerencie um museu e suas obras.
